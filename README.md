@@ -1,4 +1,4 @@
-# Simple Compass app
+# Simple Level app
 
 ## Google Glass Enterprise Edition 2
 
