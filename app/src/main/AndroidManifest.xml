@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Level"
         tools:targetApi="31">
+        <meta-data
+            android:name="com.google.android.glass.TouchEnabledApplication"
+            android:value="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
